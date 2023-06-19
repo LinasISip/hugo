@@ -1,0 +1,6 @@
+baseURL = "https://linas.github.io/"
+languageCode = "en-us"
+title = "Mano naujas puslapis"
+theme = "hello-friend"
+contentDir = "content"
+staticDir = "static"
